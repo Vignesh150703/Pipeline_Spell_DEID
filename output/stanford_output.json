@@ -1,0 +1,135 @@
+[
+  {
+    "entity_type": "DATE_TIME",
+    "text": "14/05/2021",
+    "score": 0.9999793767929077,
+    "start": 108,
+    "end": 118
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "14/05/2021",
+    "score": 0.9999753832817078,
+    "start": 162,
+    "end": 172
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "14/05/2021",
+    "score": 0.9999615550041199,
+    "start": 187,
+    "end": 197
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "Dr. Vivek",
+    "score": 0.9995429515838623,
+    "start": 91,
+    "end": 100
+  },
+  {
+    "entity_type": "ID",
+    "text": "1024",
+    "score": 0.9989136457443237,
+    "start": 130,
+    "end": 134
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "Mr. Vinay",
+    "score": 0.9985442161560059,
+    "start": 39,
+    "end": 48
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "Kamal Diagnostic Center",
+    "score": 0.9945230484008789,
+    "start": 0,
+    "end": 23
+  },
+  {
+    "entity_type": "ID",
+    "text": "1024",
+    "score": 0.9903110265731812,
+    "start": 142,
+    "end": 146
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "Kamal Diagnostic Center",
+    "score": 0.9826571345329285,
+    "start": 1129,
+    "end": 1152
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "Dr. A. K. Asthana, MBBS",
+    "score": 0.9788443446159363,
+    "start": 1075,
+    "end": 1098
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "Opposite Hospital, Hospital Road, New Delhi",
+    "score": 0.9253869652748108,
+    "start": 1154,
+    "end": 1197
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "Mr. Sachin Sharma",
+    "score": 0.8826645612716675,
+    "start": 1036,
+    "end": 1053
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "DMLT",
+    "score": 0.8554069399833679,
+    "start": 1055,
+    "end": 1059
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "9132456780",
+    "score": 0.7245934009552002,
+    "start": 1199,
+    "end": 1209
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "9132456780",
+    "score": 0.05,
+    "start": 1199,
+    "end": 1209
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "9132456780",
+    "score": 0.01,
+    "start": 1199,
+    "end": 1209
+  },
+  {
+    "entity_type": "ADDRESS_NUMBER",
+    "text": "14/05/2021",
+    "start": 187,
+    "end": 197,
+    "score": 0.8
+  },
+  {
+    "entity_type": "AGE",
+    "text": "23",
+    "start": 61,
+    "end": 63,
+    "score": 0.9
+  },
+  {
+    "entity_type": "GENDER",
+    "text": "Male",
+    "start": 72,
+    "end": 76,
+    "score": 0.9
+  }
+]
