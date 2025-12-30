@@ -1,0 +1,14 @@
+T. In: 600ml T. out: 25ml GRBS: 126mg/dl
+
+**VEDANTA HOSPITALS**  
+# 15-11-154, Beside Vasavi Cloth Market, Near Best Price  
+Mangalagiri Road, GUNTUR - 522 001  
+☎ 0863 - 222 7277, 222 9277, 91 3333 2737
+
+**MEDICATION CHART** stool not passed
+
+Name of patient: Y. Narayana Rao Age / Sex: 62y M IP No: 20931 Ward: ICU UMR No: 52090
+
+Date: 09/08/25
+
+<table><thead><tr><th>S. No.</th><th>DRUG in CAPITAL LETTERS</th><th>Dose</th><th>Route</th><th>Frequency</th><th>Antibiotic No. of days</th><th>WT:</th></tr></thead><tbody><tr><td>1</td><td>Inf. Razole</td><td>200mg</td><td>IV</td><td>OD</td><td>7Am</td><td></td></tr><tr><td>2</td><td>Inf. Zofran</td><td>4mg</td><td>IV</td><td>OD</td><td>7Am</td><td>8pm</td></tr><tr><td>3</td><td>Inf. Thiamyl- Renodur</td><td>10ml</td><td>IV</td><td>OD</td><td>1pm</td><td></td></tr><tr><td>4</td><td>Inf. Mecon. S</td><td>1.5g</td><td>IV</td><td>BD</td><td>8Am</td><td>8pm</td></tr><tr><td>5</td><td>Inf. Pcm</td><td>1gm</td><td>IV (SOS)</td><td></td><td>7Am</td><td>1pm</td></tr><tr><td>6</td><td>Nebi Duoline</td><td></td><td>BD</td><td></td><td>7Am</td><td>7pm</td></tr><tr><td></td><td>Budesonide</td><td></td><td>BD</td><td></td><td>7Am</td><td>7pm</td></tr><tr><td>7</td><td>Tab. Thyronorm</td><td>75mcg</td><td>PO</td><td>OD</td><td>7Am</td><td></td></tr><tr><td>8</td><td>Inf. Octag</td><td>900mg</td><td>IV</td><td>BD</td><td>9Am</td><td>8pm</td></tr><tr><td>9</td><td>Tab. Rifagut</td><td>450mg</td><td>PO</td><td>BD</td><td></td><td></td></tr><tr><td>10</td><td>Tab. Norm Sachet</td><td>1</td><td>PO</td><td>BD</td><td>9Am</td><td>8pm</td></tr><tr><td colspan="6">* Infusion: 3/1/25 @ 7ml/hr</td><td></td></tr><tr><td colspan="6">Special Instructions (If any)</td><td>Sign. Sign. Sign. Sign.</td></tr><tr><td colspan="6">Signature of the CONSULTANT</td><td>Og. C.H.V. Rama Krishna Sir</td></tr></tbody></table>

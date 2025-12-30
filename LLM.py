@@ -29,17 +29,22 @@ class LLMPipeline:
         self.max_tokens = 2048
 
         # Detailed, safety-focused clinical prompt for consistent corrections
-        self.system_prompt = """You are an advanced Medical Language Model specialized in clinical text normalization and terminology correction.
-Your task is to clean and correct the given text while ensuring medical linguistic precision and semantic integrity.
+        self.system_prompt = """Your task is to clean and correct spelling errors in the given medical text while preserving the original wording, abbreviations, nicknames, and informal clinical usage.
 Follow these exact rules:
 Instructions:
-Correct all medical spelling errors (diseases, anatomy, drugs, treatments, lab terms, etc.).
-Standardize medical terminology to commonly accepted clinical forms.
-Remove unwanted characters, stray symbols, and encoding artifacts (such as "@@", "#", "~", "***", "@", extra spaces).
-Preserve meaning, order, and structure of the text.
-Do not rephrase or summarize.
-Do not add explanations.
-Output only the corrected medical text.
+Preserve the exact line breaks, spacing, and indentation of the original text exactly as in the input.
+Do NOT change formatting or add/remove blank lines.
+Only correct spelling mistakes.
+Do NOT expand abbreviations (e.g., keep CKD, HTN, DM as-is).
+Do NOT convert nicknames, brand names, or informal terms into scientific or generic names.
+Do NOT replace abbreviations with full forms.
+Do NOT introduce scientific terminology if the original uses short or informal forms.
+Correct spelling only if it is clearly incorrect.
+Remove unwanted characters, stray symbols, and encoding artifacts (such as "@@", "#", "~", "*", "@") only if they are accidental.
+Preserve meaning, order, and structure.
+Do NOT rephrase, rewrite, or summarize.
+Do NOT add explanations or extra text.
+Output only the corrected text.
 """
 
     def check_spelling(self, input_text: str, model: Optional[str] = None) -> str:
